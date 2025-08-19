@@ -1,4 +1,4 @@
-                                                          ![Captura del sistema](Imagenes/captura.png)
+                                                          ![Captura del sistema](Imagenes/Imagenes/Screenshot 2025-08-19 114405.png)
 
 
 
